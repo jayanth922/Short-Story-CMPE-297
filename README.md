@@ -2,8 +2,8 @@
 
 This repository contains supporting material for understanding and presenting the paper:
 
-> **Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs (ID-SPAM)**  
-> Authors: Ananth Muppidi, Abhilash Nandy, Sambaran Bandyopadhyay
+**Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs (ID-SPAM)**
+Authors: Ananth Muppidi, Abhilash Nandy, Sambaran Bandyopadhyay
 
 The repo bundles together a slide deck, a video walkthrough, and a Medium article that explain the core ideas of ID-SPAM in an accessible way.
 
@@ -13,8 +13,8 @@ The repo bundles together a slide deck, a video walkthrough, and a Medium articl
 | Resource           | Link |
 |--------------------|------|
 | Original Paper     | [arXiv: Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs](https://arxiv.org/abs/2506.05629) |
-| Medium Article     | _[Add your Medium article link here]_ |
-| Presentation Video | _[Add your YouTube walkthrough link here]_ |
+| Medium Article     | _[Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs](https://medium.com/@jayanth.kalyanam/letting-llms-build-their-own-prompts-id-spam-explained-3e5777501ab9)_ |
+| Presentation Video | _[Youtube](https://youtu.be/FJAfdIZ-XE4)_ |
 
 
 
@@ -60,7 +60,7 @@ It walks through:
 - High-level experimental results and what they mean in practice  
 - Practical implications, limitations, and potential future directions
 
-> 🔗 **Medium Article:** _[Add your Medium article link here]_
+> 🔗 **Medium Article:** _[Article](https://medium.com/@jayanth.kalyanam/letting-llms-build-their-own-prompts-id-spam-explained-3e5777501ab9)]_
 
 
 ## ▶️ Video Walkthrough
@@ -73,16 +73,16 @@ The YouTube video is a recorded walkthrough of the slide deck. It is useful if y
 
 The video generally follows the slide structure and ends with a short discussion and summary.
 
-> 🎥 **YouTube Presentation:** _[Add your YouTube walkthrough link here]_
+> 🎥 **YouTube Presentation:** _[Youtube](https://youtu.be/FJAfdIZ-XE4)_
 ```
 
 ## 📚 Original Paper
 
 For technical details and citation, please refer to the original work:
 
-> **Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs (ID-SPAM)**  
-> Ananth Muppidi, Abhilash Nandy, Sambaran Bandyopadhyay  
-> arXiv: https://arxiv.org/abs/2506.05629
+- **Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs (ID-SPAM)**  
+- Ananth Muppidi, Abhilash Nandy, Sambaran Bandyopadhyay  
+- arXiv: https://arxiv.org/abs/2506.05629
 
 
 ## 🙏 Acknowledgements
