@@ -60,8 +60,6 @@ It walks through:
 - High-level experimental results and what they mean in practice  
 - Practical implications, limitations, and potential future directions
 
-> 🔗 **Medium Article:** _[Article](https://medium.com/@jayanth.kalyanam/letting-llms-build-their-own-prompts-id-spam-explained-3e5777501ab9)]_
-
 
 ## ▶️ Video Walkthrough
 
@@ -73,7 +71,6 @@ The YouTube video is a recorded walkthrough of the slide deck. It is useful if y
 
 The video generally follows the slide structure and ends with a short discussion and summary.
 
-> 🎥 **YouTube Presentation:** _[Youtube](https://youtu.be/FJAfdIZ-XE4)_
 ```
 
 ## 📚 Original Paper
