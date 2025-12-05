@@ -2,8 +2,8 @@
 
 This repository contains supporting material for understanding and presenting the paper:
 
-**Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs (ID-SPAM)**
-Authors: Ananth Muppidi, Abhilash Nandy, Sambaran Bandyopadhyay
+- **Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs (ID-SPAM)**
+- Authors: Ananth Muppidi, Abhilash Nandy, Sambaran Bandyopadhyay
 
 The repo bundles together a slide deck, a video walkthrough, and a Medium article that explain the core ideas of ID-SPAM in an accessible way.
 
